@@ -16,7 +16,7 @@ This project demonstrates a Bluetooth-controlled home automation system using an
 
 The Arduino code was developed using the Arduino IDE, establishing a Bluetooth connection and listening for commands sent from a smartphone. Based on the received commands, the code controls the relay modules to turn devices on or off, using simple character inputs: '1' to turn on a device, '0' to turn it off, '2' for another device, and '3' to turn it off again. This project serves as a foundational step towards building a more comprehensive home automation system, with future enhancements possible, such as adding more devices, integrating sensors, or implementing a user-friendly mobile application for better control.
 
-# OUTPUT
+# OUTPUT(circuit only)
 
 ![Image](https://github.com/user-attachments/assets/d9ff58cd-0660-4602-8495-d8c8d80589a4)
 
