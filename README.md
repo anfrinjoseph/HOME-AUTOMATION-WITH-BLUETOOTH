@@ -1,4 +1,4 @@
-# HOME-AUTOMATION-WITH-BLUETOOTH
+# home-automation-with-bluetooth
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
