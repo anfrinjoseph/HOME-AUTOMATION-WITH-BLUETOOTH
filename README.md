@@ -18,3 +18,5 @@ The Arduino code was developed using the Arduino IDE, establishing a Bluetooth c
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/d9ff58cd-0660-4602-8495-d8c8d80589a4)
+
